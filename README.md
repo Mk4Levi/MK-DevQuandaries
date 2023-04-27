@@ -1,3 +1,3 @@
 # DevQuandaries
 
-### It is LeetCode like project meant for developers.
+### It is a LeetCode like project meant for developers.
