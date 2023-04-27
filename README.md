@@ -1,8 +1,3 @@
-## Full stack assignment
+# DevQuandaries
 
-### Video
-
-Link to video - https://www.youtube.com/watch?v=569YZm0X5-0
-
-### Where to start?
-Look at App.jsx inside the src/ folder 
+### It is LeetCode like project meant for developers.
